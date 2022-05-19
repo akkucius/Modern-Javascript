@@ -1,1 +1,8 @@
-alert('From the JS');
+let admin;
+let name = "John";
+
+admin = name;
+
+alert(admin);
+
+
